@@ -64,6 +64,11 @@
 .menu--open {
   display: block;
 }
+
+.menu-scaling{
+  transform: scale(1.4);
+}
+
 .articles {
   margin-top: 95px;
 }
@@ -104,6 +109,7 @@
 }
 .article-open {
   height: 400px;
+  background-color: #81C784;
 }
 html,
 body {
